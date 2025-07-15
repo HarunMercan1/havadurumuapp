@@ -1,16 +1,29 @@
-# havadurumuapp
+# ☀️ Hava Durumu Uygulaması (Flutter)
+Bu proje, Flutter kullanılarak geliştirilen basit ve modern bir hava durumu uygulamasıdır.  
+Kullanıcı seçtiği şehirlerin hava durumu bilgilerini **OpenWeatherMap API** üzerinden anlık olarak alabilir.
 
-A new Flutter project.
+## 🧩 Özellikler
+- 🌆 Şehir seçimine göre anlık hava durumu bilgisi alma  
+- 🌡️ Sıcaklık, açıklama, nem ve rüzgar hızı gösterimi  
+- 🟦 GridView ile şehir seçimi ve seçilen şehrin vurgulanması  
+- 🌐 API ile dinamik veri çekimi (OpenWeatherMap)  
+- 🧱 Modern arayüz (Material 3 desteği ile)
 
-## Getting Started
+## 🔧 Kullanılan Teknolojiler
+- [Flutter](https://flutter.dev/)  
+- Dart  
+- Dio (HTTP client paketi)  
+- OpenWeatherMap API
 
-This project is a starting point for a Flutter application.
+<h3>📸 Ekran Görüntüleri</h3>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="screenshots/screen1.png" alt="Screen 1" width="200"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/screen2.png" alt="Screen 2" width="200"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👨‍💻 Geliştirici
+- Adı: Harun Mercan
+- Eğitim: Gazi Üniversitesi, Bilgisayar Mühendisliği
