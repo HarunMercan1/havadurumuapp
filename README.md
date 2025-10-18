@@ -13,7 +13,7 @@ Kullanıcı seçtiği şehirlerin hava durumu bilgilerini **OpenWeatherMap API**
 - [Flutter](https://flutter.dev/)  
 - Dart  
 - Dio (HTTP client paketi)  
-- OpenWeatherMap API
+- OpenWeatherMap
 
 <h3>📸 Ekran Görüntüleri</h3>
 
