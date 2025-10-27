@@ -1,4 +1,4 @@
-# ☀️ Hava Durumu Uygulaması (Flutter)
+# ☀️ Hava Durumu Uygulaması 
 Bu proje, Flutter kullanılarak geliştirilen basit ve modern bir hava durumu uygulamasıdır.  
 Kullanıcı seçtiği şehirlerin hava durumu bilgilerini **OpenWeatherMap API** üzerinden anlık olarak alabilir.
 
