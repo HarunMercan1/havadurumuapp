@@ -7,7 +7,7 @@ Kullanıcı seçtiği şehirlerin hava durumu bilgilerini **OpenWeatherMap API**
 - 🌡️ Sıcaklık, açıklama, nem ve rüzgar hızı gösterimi  
 - 🟦 GridView ile şehir seçimi ve seçilen şehrin vurgulanması  
 - 🌐 API ile dinamik veri çekimi (OpenWeatherMap)  
-- 🧱 Modern arayüz (Material 3 desteği ile)
+- 🧱 Modern arayüz
 
 ## 🔧 Kullanılan Teknolojiler
 - [Flutter](https://flutter.dev/)  
