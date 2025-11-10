@@ -26,7 +26,7 @@ Kullanıcı seçtiği şehirlerin hava durumu bilgilerini **OpenWeatherMap API**
 
 👨‍💻 Geliştirici
 - Adı: Harun Mercan
-- Eğitim: Gazi Üniversitesi  Bilgisayar Mühendisliği
+- Eğitim: Gazi Üniversitesi - Bilgisayar Mühendisliği
 
 
  
